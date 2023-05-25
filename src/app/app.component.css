@@ -1,0 +1,14 @@
+.odd {
+  background-color: paleturquoise;
+}
+
+.even {
+  background-color: peachpuff;
+}
+
+.numbers-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
